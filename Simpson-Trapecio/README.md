@@ -22,7 +22,7 @@ Sigue estos pasos en la terminal:
    ```
 3. Ejecuta el programa principal con su respectivo paquete:
    ```bash
-   java Main
+   java MainTrap
    ```
 
 ## 4. Ejemplo de Prueba y Salida por Consola
